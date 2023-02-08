@@ -4,3 +4,5 @@ hotfix
 feature/task1
 release 1.0
 feature/task1
+feature/task2
+
