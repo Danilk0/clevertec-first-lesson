@@ -2,4 +2,4 @@ dev1
 master
 hotfix
 feature/task1
-release
+release 1.0
